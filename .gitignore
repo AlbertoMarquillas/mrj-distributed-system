@@ -1,0 +1,19 @@
+﻿# Build / artifacts
+build/
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.map
+*.log
+
+# Tooling / IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
