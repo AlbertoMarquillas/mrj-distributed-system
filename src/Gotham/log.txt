@@ -1,0 +1,11 @@
+[2025-05-18 18:57:32] Media connected: IP:172.16.214.21:9257-1
+[2025-05-18 18:57:32] Media assigned as primary worker:IP:172.16.214.21:9257-1
+[2025-05-18 18:57:36] Media connected: IP:172.16.214.21:9258-1
+[2025-05-18 18:57:40] Fleck connected: username=Mariano-1
+[2025-05-18 18:57:43] Fleck requested distortion: username=Mariano, mediaType=Media, fileName=A.png-1
+[2025-05-18 18:57:49] Media disconnected: IP:172.16.214.21:9258-1
+[2025-05-18 18:59:08] Fleck disconnected: username=Mariano-1
+[2025-05-18 18:59:18] Media disconnected: IP:172.16.214.21:9258-1
+[2025-05-19 21:58:32] Media connected: IP:172.16.214.21:9257-1
+[2025-05-19 21:58:33] Media assigned as primary worker:IP:172.16.214.21:9257-1
+[2025-05-19 21:58:34] Media disconnected: IP:172.16.214.21:9257-1
